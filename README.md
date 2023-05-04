@@ -1,2 +1,2 @@
-# geolocation
-This is repository for storing application code from Utrains
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
