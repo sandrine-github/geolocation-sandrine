@@ -19,7 +19,7 @@ stages {
             sh 'mvn test'
         } 
     }
-    stage('test') {
+    stage('build') {
         steps {
             echo 'test'
         }
